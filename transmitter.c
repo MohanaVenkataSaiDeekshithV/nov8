@@ -1,0 +1,2 @@
+
+Hi. Initializing transmitter node.
